@@ -1,6 +1,6 @@
 # Fibonacci-clock-pygame-python
 
-clock build with pygame.__
+clock build with pygame.</br>
 Refreshes every 5min.
 
 ### Color dictionnary
