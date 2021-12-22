@@ -18,4 +18,4 @@ Refreshes every 5min.
 
 ### calculation
    
-   (RED/ BLUE) square value*5 : (GREEN/ BLUE) square value*5
+   (RED/ BLUE) square value : (GREEN/ BLUE) square value x 5
